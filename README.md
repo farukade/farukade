@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to My Profile
 
-<!--
-**farukade/farukade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const me = {
+  name: "Faruk Suleiman",
+  occupation: "Software Developer",
+  skills: ["JavaScript", "TypeScript", "C", "Linux", "NodeJs", "Dart", "Swift", "Flutter", "React", "HTML", "CSS"],
+  hobbies: ["coding", "reading", "gaming", "exploring destinations"],
+  contact: {
+    email: "farukadekunle@gmail.com",
+    linkedIn: "https://www.linkedin.com/in/faruk-suleiman-391b5a11a",
+    twitter: "https://x.com/adekunle_faruk"
+  }
+};
